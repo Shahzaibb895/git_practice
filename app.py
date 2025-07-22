@@ -1,7 +1,8 @@
 def add(a,b,c):
-    return a + b + c
-def subt(a,b,e):
-    return a - b - e
+    return a+b+c
 
-def mult(a,b):
-    return a * b 
+def subtract(a,b,c):
+    return a-b-c
+
+def multi(a,b):
+    return a*b
