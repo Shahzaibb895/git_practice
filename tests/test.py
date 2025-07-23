@@ -7,7 +7,7 @@ def test_add():
     assert add(-5, -3) ==-8
     assert add(5, -3) ==2
 
-    def test_subt():
+def test_subt():
         assert subt(5, 3) ==2
         assert subt(5, -3) ==8
         assert subt(-5, -3) ==-2
